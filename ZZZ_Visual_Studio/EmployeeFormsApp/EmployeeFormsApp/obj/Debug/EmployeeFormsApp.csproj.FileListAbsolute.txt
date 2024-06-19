@@ -1,0 +1,20 @@
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\bin\Debug\EmployeeFormsApp.exe.config
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\bin\Debug\EmployeeFormsApp.exe
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\bin\Debug\EmployeeFormsApp.pdb
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.csproj.AssemblyReference.cache
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.Properties.Resources.resources
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.csproj.GenerateResource.cache
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.exe
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.pdb
+C:\Users\Vijaya Malla\source\repos\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.AddEmployee.resources
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\bin\Debug\EmployeeFormsApp.exe.config
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\bin\Debug\EmployeeFormsApp.exe
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\bin\Debug\EmployeeFormsApp.pdb
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.csproj.AssemblyReference.cache
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.AddEmployee.resources
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.Properties.Resources.resources
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.csproj.GenerateResource.cache
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.csproj.CoreCompileInputs.cache
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.exe
+D:\SCCSB6\ZZZ_Visual_Studio\EmployeeFormsApp\EmployeeFormsApp\obj\Debug\EmployeeFormsApp.pdb

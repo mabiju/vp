@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCCSB6\\ZZZ_Visual_Studio\\EmployeeFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE90C4-9D1F-4469-A134-1D34C92D25C2}|EmployeeFormsApp\\EmployeeFormsApp.csproj|D:\\SCCSB6\\ZZZ_Visual_Studio\\EmployeeFormsApp\\employeeformsapp\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FE90C4-9D1F-4469-A134-1D34C92D25C2}|EmployeeFormsApp\\EmployeeFormsApp.csproj|solutionrelative:employeeformsapp\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE90C4-9D1F-4469-A134-1D34C92D25C2}|EmployeeFormsApp\\EmployeeFormsApp.csproj|d:\\sccsb6\\zzz_visual_studio\\employeeformsapp\\employeeformsapp\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE90C4-9D1F-4469-A134-1D34C92D25C2}|EmployeeFormsApp\\EmployeeFormsApp.csproj|solutionrelative:employeeformsapp\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\EmployeeFormsApp\\EmployeeFormsApp\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeFormsApp\\AddEmployee.cs",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\EmployeeFormsApp\\EmployeeFormsApp\\AddEmployee.cs",
+              "RelativeToolTip": "EmployeeFormsApp\\AddEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:39:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\EmployeeFormsApp\\EmployeeFormsApp\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeFormsApp\\AddEmployee.cs",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\EmployeeFormsApp\\EmployeeFormsApp\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "EmployeeFormsApp\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:37:37.774Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
