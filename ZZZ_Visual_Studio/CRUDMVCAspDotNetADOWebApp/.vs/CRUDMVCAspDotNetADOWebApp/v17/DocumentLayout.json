@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|d:\\sccsb6\\zzz_visual_studio\\crudmvcaspdotnetadowebapp\\crudmvcaspdotnetadowebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|solutionrelative:crudmvcaspdotnetadowebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|d:\\sccsb6\\zzz_visual_studio\\crudmvcaspdotnetadowebapp\\crudmvcaspdotnetadowebapp\\views\\crud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|solutionrelative:crudmvcaspdotnetadowebapp\\views\\crud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|d:\\sccsb6\\zzz_visual_studio\\crudmvcaspdotnetadowebapp\\crudmvcaspdotnetadowebapp\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|solutionrelative:crudmvcaspdotnetadowebapp\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|d:\\sccsb6\\zzz_visual_studio\\crudmvcaspdotnetadowebapp\\crudmvcaspdotnetadowebapp\\views\\crud\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|solutionrelative:crudmvcaspdotnetadowebapp\\views\\crud\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|d:\\sccsb6\\zzz_visual_studio\\crudmvcaspdotnetadowebapp\\crudmvcaspdotnetadowebapp\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|solutionrelative:crudmvcaspdotnetadowebapp\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|d:\\sccsb6\\zzz_visual_studio\\crudmvcaspdotnetadowebapp\\crudmvcaspdotnetadowebapp\\models\\crudmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801659BC-0648-4705-815C-9F72677A9F0F}|CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp.csproj|solutionrelative:crudmvcaspdotnetadowebapp\\models\\crudmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CRUDMVCAspDotNetADOWebApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CRUDMVCAspDotNetADOWebApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:26:30.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Edit.cshtml",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Edit.cshtml",
+              "RelativeToolTip": "CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:25:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Create.cshtml",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Create.cshtml",
+              "RelativeToolTip": "CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:23:39.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Home.cshtml",
+              "RelativeDocumentMoniker": "CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Home.cshtml",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Home.cshtml",
+              "RelativeToolTip": "CRUDMVCAspDotNetADOWebApp\\Views\\CRUD\\Home.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:19:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRUDModel.cs",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Models\\CRUDModel.cs",
+              "RelativeDocumentMoniker": "CRUDMVCAspDotNetADOWebApp\\Models\\CRUDModel.cs",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Models\\CRUDModel.cs",
+              "RelativeToolTip": "CRUDMVCAspDotNetADOWebApp\\Models\\CRUDModel.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwGMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:06:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDController.cs",
+              "DocumentMoniker": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Controllers\\CRUDController.cs",
+              "RelativeDocumentMoniker": "CRUDMVCAspDotNetADOWebApp\\Controllers\\CRUDController.cs",
+              "ToolTip": "D:\\SCCSB6\\ZZZ_Visual_Studio\\CRUDMVCAspDotNetADOWebApp\\CRUDMVCAspDotNetADOWebApp\\Controllers\\CRUDController.cs",
+              "RelativeToolTip": "CRUDMVCAspDotNetADOWebApp\\Controllers\\CRUDController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:02:07.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
