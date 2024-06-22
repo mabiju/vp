@@ -1,0 +1,7 @@
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\bin\Debug\Console_DB_Pro_StoredProcedure.exe.config
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\bin\Debug\Console_DB_Pro_StoredProcedure.exe
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\bin\Debug\Console_DB_Pro_StoredProcedure.pdb
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\obj\Debug\Console_DB_Pro_StoredProcedure.csproj.AssemblyReference.cache
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\obj\Debug\Console_DB_Pro_StoredProcedure.csproj.CoreCompileInputs.cache
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\obj\Debug\Console_DB_Pro_StoredProcedure.exe
+D:\SCCSB6\ZZZ_Visual_Studio\Console_DB_Pro_StoredProcedure\obj\Debug\Console_DB_Pro_StoredProcedure.pdb

@@ -1,0 +1,69 @@
+create database db_sqldemo;
+
+use db_sqldemo;
+create table tbl_students
+(
+rollno int primary key not null identity(1,1),
+fullname varchar(55) not null,
+address varchar(55) not null,
+email varchar(55) not null
+);
+
+use db_sqldemo;
+insert into tbl_students(fullname, address, email)
+values
+('Ram Thapa','Kathmandu','ram@gmail.com'),
+('Sita Nepal','Bhairahawa','sita@gmail.com'),
+('Hari Poudel','Butwal','cutehari@gmail.com'),
+('Laxmi Neupane','Nepalgunj','laxmi@yahoo.com'),
+('Hari Bhatta','Biratnagar','hari@gmail.com'),
+('Sudesh Thapa','Pokhara','sthapa@gmail.com');
+
+use db_sqldemo;
+select * from tbl_students;
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ADO_DB_Pro_SqlTransaction
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            new Program().MySQLTransaction();
+            Console.ReadLine();
+        }
+
+        public void MySQLTransaction()
+        {
+            SqlConnection conn = new SqlConnection("Data Source=vjmalla; Initial Catalog=db_sqldemo; Integrated Security=True");
+            SqlTransaction myTrans;
+            conn.Open();
+            myTrans = conn.BeginTransaction();
+            try
+            {
+
+                new SqlCommand("INSERT INTO tbl_students(fullname,address,email)VALUES('Hari Sharan Adhikari','Dhulikhel','hariahri@yahoo.com')", conn, myTrans).ExecuteNonQuery();
+                myTrans.Commit();
+                Console.WriteLine("Data inserted sucessfully");
+            }
+            catch (SqlException e)
+            {
+                myTrans.Rollback();
+                Console.WriteLine("Something went wrong." + e);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+    }
+}

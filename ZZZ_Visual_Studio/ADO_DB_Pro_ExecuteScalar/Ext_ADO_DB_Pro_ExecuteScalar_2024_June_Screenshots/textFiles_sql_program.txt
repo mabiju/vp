@@ -1,0 +1,63 @@
+create database db_sqldemo;
+
+use db_sqldemo;
+create table tbl_students
+(
+rollno int primary key not null identity(1,1),
+fullname varchar(55) not null,
+address varchar(55) not null,
+email varchar(55) not null
+);
+
+use db_sqldemo;
+insert into tbl_students(fullname, address, email)
+values
+('Ram Thapa','Kathmandu','ram@gmail.com'),
+('Sita Nepal','Bhairahawa','sita@gmail.com'),
+('Hari Poudel','Butwal','cutehari@gmail.com'),
+('Laxmi Neupane','Nepalgunj','laxmi@yahoo.com'),
+('Hari Bhatta','Biratnagar','hari@gmail.com'),
+('Sudesh Thapa','Pokhara','sthapa@gmail.com');
+
+use db_sqldemo;
+select * from tbl_students;
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ADO_DB_Pro_ExecuteScalar
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                string ConString = "Data Source=vjmalla;Initial Catalog=db_sqldemo;Integrated Security=True";
+                using (SqlConnection conn = new SqlConnection(ConString))
+                {
+                    //creating SqlCommand Object
+                    SqlCommand cmd = new SqlCommand("SELECT COUNT(rollno) from tbl_students", conn);
+                    //connection open
+                    conn.Open();
+                    //Executing the SQL Query
+                    //Since the return type of ExecuteScalar() is object, we are type casting to int datatype
+                    int TotalRows = (int)cmd.ExecuteScalar();
+                    Console.WriteLine("The total number of rows in Student table is = " + TotalRows);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Something went wrong." + e);
+            }
+            Console.ReadLine();
+        }
+    }
+}

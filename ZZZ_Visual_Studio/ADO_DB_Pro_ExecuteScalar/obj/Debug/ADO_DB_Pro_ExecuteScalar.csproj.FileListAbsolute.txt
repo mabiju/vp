@@ -1,0 +1,7 @@
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\bin\Debug\ADO_DB_Pro_ExecuteScalar.exe.config
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\bin\Debug\ADO_DB_Pro_ExecuteScalar.exe
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\bin\Debug\ADO_DB_Pro_ExecuteScalar.pdb
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\obj\Debug\ADO_DB_Pro_ExecuteScalar.csproj.AssemblyReference.cache
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\obj\Debug\ADO_DB_Pro_ExecuteScalar.csproj.CoreCompileInputs.cache
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\obj\Debug\ADO_DB_Pro_ExecuteScalar.exe
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_ExecuteScalar\obj\Debug\ADO_DB_Pro_ExecuteScalar.pdb

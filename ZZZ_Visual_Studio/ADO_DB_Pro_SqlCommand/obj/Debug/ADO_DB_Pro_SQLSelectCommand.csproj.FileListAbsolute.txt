@@ -1,0 +1,7 @@
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\bin\Debug\ADO_DB_Pro_SQLSelectCommand.exe.config
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\bin\Debug\ADO_DB_Pro_SQLSelectCommand.exe
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\bin\Debug\ADO_DB_Pro_SQLSelectCommand.pdb
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\obj\Debug\ADO_DB_Pro_SQLSelectCommand.csproj.AssemblyReference.cache
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\obj\Debug\ADO_DB_Pro_SQLSelectCommand.csproj.CoreCompileInputs.cache
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\obj\Debug\ADO_DB_Pro_SQLSelectCommand.exe
+D:\SCCSB6\ZZZ_Visual_Studio\ADO_DB_Pro_SQLSelectCommand\obj\Debug\ADO_DB_Pro_SQLSelectCommand.pdb
